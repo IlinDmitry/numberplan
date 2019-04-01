@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  prefix: 1
+  maxlen: 1
+  minlen: 1
+  usega: MyString
+  comment: MyString
+
+two:
+  prefix: 1
+  maxlen: 1
+  minlen: 1
+  usega: MyString
+  comment: MyString

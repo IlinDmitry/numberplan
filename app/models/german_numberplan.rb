@@ -1,0 +1,3 @@
+class GermanNumberplan < ApplicationRecord
+
+end
